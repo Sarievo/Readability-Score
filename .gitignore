@@ -1,0 +1,6 @@
+# Project exclude paths
+/.gradle/
+/Readability Score/task/build/
+/Readability Score/task/out/
+/Readability Score/task/out/production/classes/
+/Readability Score/task/out/test/classes/
